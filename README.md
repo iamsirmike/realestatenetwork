@@ -1,7 +1,7 @@
 # real_estate_network
 
 ## Screenshots
-<img src="ss/ss1.jpg" height="350" width="200"> <img src="ss/ss2.jpg" height="350" width="200"> <img src="ss/ss3.jpg" height="350" width="200">
+<img src="ss/ss1.jpg" height="350" width="200">	&nbsp;	&nbsp; <img src="ss/ss2.jpg" height="350" width="200"> 	&nbsp;	&nbsp;<img src="ss/ss3.jpg" height="350" width="200">
 
 A new Flutter project.
 
