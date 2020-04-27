@@ -2,6 +2,8 @@
 
 ## Screenshots
 <img src="ss/ss1.jpg" height="450" width="300">
+<img src="ss/ss2.jpg" height="450" width="300">
+<img src="ss/ss3.jpg" height="450" width="300">
 
 A new Flutter project.
 
